@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 function Visor({nome,tipo,valor}) {
   return (
